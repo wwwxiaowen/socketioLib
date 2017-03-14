@@ -1,0 +1,2 @@
+# socketioLib
+socketio封装，之前一个项目里面用到的socketio做群聊，运行起来还比较稳定，自己封装了一下socketio，供大家借鉴参考
