@@ -15,8 +15,8 @@
 
 #import <Foundation/Foundation.h>
 #import <HotCommunity-Swift.h>
-
-#define HC_HOST @"http://114.215.29.89:3001"
+#warning 填写服务器地址
+#define HC_HOST @"http://填写服务器地址"
 
 @protocol SocketRoomChatDelegate <NSObject>
 
